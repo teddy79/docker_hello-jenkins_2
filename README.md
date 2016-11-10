@@ -1,1 +1,2 @@
-# docker_hello-jenkins_2
+# hello-jenkins
+Super Simple App
